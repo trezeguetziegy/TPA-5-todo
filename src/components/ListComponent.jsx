@@ -14,7 +14,7 @@ const ListComponent = ({ valueData, idData, fullData, deleteBtn, checkedBtn, edi
                 <div className="row card py-2 d-flex" style={{ flexDirection: 'unset', alignItems: 'center' }}>
                     <div className="col-1" style={{
                         flexDirection: 'unset',
-                        alignItems: 'center', height: '100%',
+                        alignItems: 'center', height: '100%' ,
                         justifyContent: 'center'
                     }}>
                         <input
